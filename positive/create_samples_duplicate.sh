@@ -1,0 +1,1 @@
+opencv_createsamples -img ./twinings/object.jpg -bg ../negative/bg.txt -info info/info.lst -pngoutput info -maxxangle 0.5 -maxyangle 0.5 -num 819

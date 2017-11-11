@@ -1,0 +1,4 @@
+image-fetch/images/*.jpg
+negative/bg/*.jpg
+positive/info/*
+positive/twinings/*

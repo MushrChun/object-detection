@@ -1,0 +1,1 @@
+opencv_createsamples -vec sample.vec -img ./twinings/img.jpg -bg ./bg.txt -num 600 0 -bgcolor -bgthresh 0 -w 20 -h 20 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40
